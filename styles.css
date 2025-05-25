@@ -11,6 +11,7 @@
 
 body {
   background-color: var(--color);
+  position: relative;
 }
 
 .padre{
@@ -28,7 +29,7 @@ h2 {
 }
 
 .opciones {
-  width: 5%;
+  width: 4%;
   z-index: 1;
   margin-left: -10px ;
   background-color: rgb(2, 88, 88);
@@ -49,7 +50,7 @@ h2 {
 .contenido {
   margin-left: -3px;
   width: 70%;
-  height: 77.6%;
+  height: 90%;
   background-color: gainsboro;
   display: inline-block;
   position: absolute;
@@ -104,7 +105,7 @@ h2 {
     height: 50%;
     margin-left: 30PX;
     font-family: var(--fuente);
-    transform: translate(6%, -100%);
+    transform: translate(6%, -110%);
 }
 
 .conten .unico{
@@ -117,7 +118,7 @@ h2 {
      margin-top: 100px;
      background-color: rgba(2, 88, 88, 0.534);
      position: absolute;
-     transform: translate(0%, -118%);
+     transform: translate(0%, -122%);
 
 }
 
@@ -219,7 +220,7 @@ h2 {
 }
 
 .boton3{
-  margin-top: 30px;
+  margin-top: 10px;
   background-color: var(--color);
   width: 40%;
   height: 12%;
@@ -231,5 +232,4 @@ h2 {
 
 .boton3 img{
   width: 10%;
-
 }
