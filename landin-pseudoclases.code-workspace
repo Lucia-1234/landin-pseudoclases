@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "landin-pseudoclases",
+			"path": "."
+		},
+		{
+			"name": "iconos",
+			"path": "../../Users/dania/Downloads/landin-pseudoclases/iconos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "landin-pseudoclases"
+	}
+}
